@@ -1,16 +1,20 @@
-## Hi there 👋
+# ¡Hola! Soy Halim Meziane 
 
-<!--
-**halimmz/halimmz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mí
+Soy estudiante de **Administración de Sistemas Informáticos en Red** con un enfoque en redes, administración de servidores Linux y seguridad. Actualmente, estoy ampliando mis habilidades en la administración de sistemas a través de proyectos prácticos y colaborativos.
 
-Here are some ideas to get you started:
+🚀 Me apasiona mejorar la infraestructura tecnológica y aprender sobre nuevas herramientas y tecnologías que optimicen el rendimiento de las redes y sistemas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Habilidades
+- **Sistemas Operativos**: Linux, Windows
+- **Redes**: Configuración de redes, administración de routers y firewalls
+- **Herramientas**: Sysinternals Process Explorer, Docker, Nginx, Apache
+- **Programación**: Bash, Python
+
+## Proyectos destacados
+- [Proyecto 1](enlace-a-tu-proyecto): Descripción breve de tu proyecto.
+- [Proyecto 2](enlace-a-tu-proyecto): Descripción breve de tu proyecto.
+  
+## Contacto
+- 📧 Correo: tu-email@example.com
+- 🌐 Página web/Blog (si tienes): [tu-sitio-web](https://tusitioweb.com)

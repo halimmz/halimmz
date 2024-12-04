@@ -12,8 +12,7 @@ Me apasiona mejorar la infraestructura tecnológica y aprender sobre nuevas herr
 - **Programación**: Python, HTML, CSS
 
 ## Proyectos destacados
-- [Proyecto 1](): Descripción breve de tu proyecto.
-- [Proyecto 2](): Descripción breve de tu proyecto.
+- Pagina web relojes(https://github.com/halimmz/Trabajo-LM): Pagina web de una tienda de relojes realizada desde cero.
   
 ## Contacto
 - 📧 Correo: halimmeziane0@gmail.com
